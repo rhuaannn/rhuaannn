@@ -4,7 +4,7 @@
 
 
 
-![RhuanDev GitHub stats](https://github-readme-stats.vercel.app/api?username=rhuaannn&show_icons=true&theme=dracula)
+[![card](https://github-readme-stats.vercel.app/api?username=rhuaannn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologia que utilizo no meu dia
 ## FRONT-END - BACK-END - SQL
