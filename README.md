@@ -6,8 +6,8 @@
 
 ![RhuanDev GitHub stats](https://github-readme-stats.vercel.app/api?username=rhuaannn&show_icons=true&theme=dracula)
 
-## Tecnologia que eu uso no meu dia
-
+## Tecnologia que utilizo no meu dia
+## FRONT-END - BACK-END - SQL
 <div style="display:inline_block">
     <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
